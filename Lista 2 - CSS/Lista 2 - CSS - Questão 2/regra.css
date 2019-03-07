@@ -1,0 +1,47 @@
+.pessego:link{
+	text-decoration: none; /*sem nada*/
+}
+.uva:link{
+	text-decoration: none;
+	text-decoration: overline; /*linha acima do texto*/
+}
+.uva:active{
+	text-decoration: line-through; /*corta o texto no meio*/
+}
+.uva:visited{
+	text-decoration: underline; /*o texto fica sublinhado*/
+}
+.banana:link{
+	text-decoration: none;
+	color: orange;
+}
+.banana:hover{
+	color: green;
+	text-decoration: underline /*sublinhado*/
+}
+.melancia:link{
+	text-decoration: none;
+	border: solid blue; /*borda azul e solida*/
+	background-color: black; /*fundo do link preto*/
+	color: white; /*cor da fonte branca*/
+}
+.melancia:hover{
+	border: dotted black; /*borda pontilhada*/
+	background-color: white;/*fundo do link*/
+	color: black;
+}
+.melão:link{
+	text-decoration: none;
+	color: red;
+}
+.melão:visited{
+	font-family: itálico; /*tipo dda fonte*/
+	font-weight: bold; /* deixa o texto em negrito*/
+	color: orange;
+}
+.melão:hover{
+	text-decoration: underline; /*o texto fica sublinhado*/	
+}
+.melão:active{
+	color: yellow;
+}

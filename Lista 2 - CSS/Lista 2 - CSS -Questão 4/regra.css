@@ -1,0 +1,40 @@
+body{
+	border: 2px solid blue;
+}
+*{
+	padding: 0%;
+}
+#globo{
+	color: blue;
+	font-size: 45px;
+	font-weight: bold;
+}
+#noticias{
+	color: red;
+	font-size: 40px;
+	font-weight: bold;
+}
+#noticias:hover{
+	text-decoration: overline;
+}
+#esporte{
+	color: green;
+	font-size: 40px;
+	font-weight: bold;
+}
+#esporte:hover{
+	text-decoration: overline;
+}
+#entreterimento{
+	color: orange;
+	font-size: 40px;
+	font-weight: bold;
+}
+#entreterimento:hover{
+	text-decoration: overline;
+}
+#videos{
+	color: blue;
+	font-size: 40px;
+	font-weight: bold;
+}

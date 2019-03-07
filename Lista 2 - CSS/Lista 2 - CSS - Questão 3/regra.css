@@ -1,0 +1,41 @@
+#Adidas {
+  	width: 300px;
+   	height: 300px;
+ }
+
+.Imagem1:hover .LogoPreta {
+    display: none;
+}
+
+.LogoPreta {
+    display: block;
+}
+
+.Imagem1:hover .LogoVerde {
+    display: block;
+}
+
+.LogoVerde {
+    display: none;
+}
+
+#MasterCard {
+    width: 300px;
+    height: 300px;
+ }
+
+.Imagem2:hover .Master {
+    display: none;
+}
+
+.Master {
+    display: block;
+}
+
+.Imagem2:hover .Card {
+    display: block;
+}
+
+.Card {
+    display: none;
+}

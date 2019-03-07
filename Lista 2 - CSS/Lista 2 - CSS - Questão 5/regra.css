@@ -1,0 +1,29 @@
+/*Questão 5*/
+
+div{
+	color: red;
+	width: 300px;
+	height: 250px;
+	font-family: verdana;
+	font-size: 12px;
+}
+ul {
+    list-style-image: url('img/setaVermelha.gif');
+}
+
+li {
+    list-style-type: none;
+    border-bottom: 1px dotted red;
+}
+li:hover {
+    color: green;
+    border-bottom: 1px dotted green;
+    list-style-image: url('img/setaVerde.gif')
+}
+
+.div.ul:hover {
+    color: green;
+    border-bottom: 1px dotted green;
+    list-style-image: url('img/setaVerde.gif')
+}
+

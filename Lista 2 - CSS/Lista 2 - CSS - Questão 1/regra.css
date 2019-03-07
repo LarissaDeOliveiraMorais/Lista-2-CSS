@@ -1,0 +1,23 @@
+p {
+	border-left: 20em solid green;/*borda esquerda*/
+	border-right: 20em solid red;/*borda direita*/
+	width: 60%; /*largura*/
+	height: 400px; /*altura*/
+	font-size: 12px; /*tamanho da fonte*/
+	letter-spacing: 3em; /*espaço entre letras*/
+	word-spacing: 4ex; /*espaço entre palavras*/
+	text-align: justify; /*alinhamento do texto*/
+	font-family: verdana; /*tipo da fonte*/
+	text-indent: 25px; /*endentação do texto*/	
+}
+
+p:first-letter{ /*pseudo elemento*/
+	font-size: 36px; /*tamanho da fonte*/
+	color: blue; /*cor da fonte*/
+	text-decoration: overline; /*decoração do texto*/
+}
+
+p:first-line{ /*pseudo elemento*/
+	text-decoration: underline;/*decoração do texto*/
+	text-transform: uppercase; /*caixa alta*/
+}

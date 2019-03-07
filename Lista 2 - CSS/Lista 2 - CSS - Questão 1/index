@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lista 2 - CSS </title>
+	<link rel="stylesheet" type="text/css" href="regra.css">
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1> Criando Regras de Formatação em CSS </h1>
+	Bordas </br>
+	Largura </br>
+	Altura </br>
+	Tamanho de Fonte </br>
+	Espaço entre letras </br> 
+	Espaço entre palavras </br>
+	Altura dos Blocos </br>
+	Alinhamento dos Textos </br>
+	Tipo de fonte </br>
+	Endentação de Texto </br>
+</body>
+</html>
